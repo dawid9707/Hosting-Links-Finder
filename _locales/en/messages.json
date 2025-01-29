@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "Hosting Link Finder",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Finds and extracts links from popular file hosting services",
+    "description": "Description of the extension"
+  },
+  "foundLinksTitle": {
+    "message": "Found Links",
+    "description": "Title for the found links section"
+  },
+  "noLinksFound": {
+    "message": "No links found",
+    "description": "Message when no links are found"
+  },
+  "copyButton": {
+    "message": "Copy",
+    "description": "Text for the copy button"
+  },
+  "copyAllButton": {
+    "message": "Copy All Links",
+    "description": "Text for the copy all button"
+  },
+  "copiedMessage": {
+    "message": "Copied!",
+    "description": "Message shown when a link is copied"
+  },
+  "allCopiedMessage": {
+    "message": "All links copied!",
+    "description": "Message shown when all links are copied"
+  },
+  "errorNoTab": {
+    "message": "No active tab found",
+    "description": "Error message when no active tab is found"
+  },
+  "errorCommunication": {
+    "message": "Error: Could not communicate with the tab",
+    "description": "Error message when communication with the tab fails"
+  }
+}
