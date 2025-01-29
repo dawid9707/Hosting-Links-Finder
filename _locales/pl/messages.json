@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "Wyszukiwarka Linków Hostingów",
+    "description": "Nazwa rozszerzenia"
+  },
+  "extensionDescription": {
+    "message": "Wyszukuje i wyodrębnia linki z popularnych serwisów hostingowych",
+    "description": "Opis rozszerzenia"
+  },
+  "foundLinksTitle": {
+    "message": "Znalezione Linki",
+    "description": "Tytuł sekcji znalezionych linków"
+  },
+  "noLinksFound": {
+    "message": "Nie znaleziono linków",
+    "description": "Komunikat, gdy nie znaleziono linków"
+  },
+  "copyButton": {
+    "message": "Kopiuj",
+    "description": "Tekst przycisku kopiowania"
+  },
+  "copyAllButton": {
+    "message": "Kopiuj wszystkie linki",
+    "description": "Tekst przycisku kopiowania wszystkich linków"
+  },
+  "copiedMessage": {
+    "message": "Skopiowano!",
+    "description": "Komunikat po skopiowaniu linku"
+  },
+  "allCopiedMessage": {
+    "message": "Wszystkie linki skopiowane!",
+    "description": "Komunikat po skopiowaniu wszystkich linków"
+  },
+  "errorNoTab": {
+    "message": "Nie znaleziono aktywnej karty",
+    "description": "Komunikat błędu, gdy nie znaleziono aktywnej karty"
+  },
+  "errorCommunication": {
+    "message": "Błąd: Nie można połączyć się z kartą",
+    "description": "Komunikat błędu, gdy połączenie z kartą się nie powiedzie"
+  }
+}
