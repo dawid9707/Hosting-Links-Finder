@@ -4,3 +4,7 @@
 <p><b></strong>SCREENSHOT:</b></p>
 <p><img src="https://i.imgur.com/m8OC7BK.png" width="50%" height="auto"></p>
 <p><table><thead><tr><th>Supported services</th></tr></thead><tbody><tr><td>"rapidgator.net",</td></tr><tr><td>"vikingfiles.com",</td></tr><tr><td>"turbobit.net",</td></tr><tr><td>"dailyuploads.net",</td></tr><tr><td>"mixdrop.co",</td></tr><tr><td>"1fichier.com"</td></tr></tbody></table></p>
+<p><b>Installation</b></p>
+1. download latest realase
+2. unzip
+3. open "extensions" in Google Chrome choose install from unpacked "../
