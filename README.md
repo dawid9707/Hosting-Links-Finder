@@ -1,5 +1,5 @@
 <p><img src="https://github.com/dawid9707/Hosting-Links-Finder/blob/main/icon.png" width="150" height="150"></p>
-<p">Get full file hosting links from website.</p>
+<p">Fetch file hosting links from website.</p>
 <p><table><thead><tr><th>Avaliable translations</th><th>Locale</th></tr></thead><tbody><tr><td>English</td><td>en</td></tr><tr><td>Polish</td><td>pl</td></tr></tbody></table></p>
 <p><b></strong>SCREENSHOT:</b></p>
 <p><img src="https://i.imgur.com/m8OC7BK.png" width="50%" height="auto"></p>
