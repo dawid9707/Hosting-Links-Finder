@@ -7,4 +7,4 @@
 <p><b>INSTALL</b></p>
 <p>1. download latest realase</p>
 <p>2. unzip</p>
-<p></p>3. open "extensions" in Google Chrome choose install from unpacked "../Hosting.Links.Finder/</p>
+<p></p>3. open "extensions" in Google Chrome choose install from unpacked "../Hosting.Links.Finder/" (unpacked folder location)</p>
